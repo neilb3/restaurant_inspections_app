@@ -1,0 +1,40 @@
+point_id,Description,category,code,fine,point_level
+ foods properly labeled, shellfish tags in place,Food Protection,7-38-005 (B) (B-2),500,Critical
+7-38-005 (B) (B-2),500,Critical,,,
+Food Protection,7-38-005 (A),500,Critical,,
+ utensils, etc,Food Protection,7-38-005 (A),500,Critical
+ etc,Food Protection,7-38-010 (A) (B),500,Critical,
+Food Protection,7-38-010 (A) (B),500,Critical,,
+7-38-030,500,Critical,,,
+ concentration, exposure time,Food Equipment and Utensil Sanitation,7-38-031,500,Critical
+Wash and Waste Water Disposal,7-38-030,500,Critical,,
+ cross connection and/or back flow,Wash and Waste Water Disposal,7-38-031,500,Critical,
+Toilet and Hand Washing Facilities for Staff,7-38-031,500,Critical,,
+ turtles or other animals,Compliance Insect and Rodent Control,7-38-020,500,Critical,
+7-42-090,500,Critical,,,
+7-38-005 (A),250,Serious ,,,
+ display, service and transportation,Food Protection,7-38-005 (A),250,Serious 
+7-38-005 (A),250,Serious ,,,
+Insect and Rodent Control,Garbage 7-38-020,250,Serious ,,
+ all containers covered,Insect and Rodent Control,Garbage 7-38-021,250,Serious ,
+Insect and Rodent Control,Garbage 7-38-022,250,Serious ,,
+7-38-012,250,Serious ,,,
+Food Equipment and Utensil,7-38-030,250,Serious ,,
+ soaked ,Food Equipment and Utensil,7-38-031,250,Serious ,
+Toxic Items,7-38-005 (A), 7-38-030,250,Serious ,
+ accessible, properly designed and installed ,Toilet / Hand Washing Facilities For Customers,7-38-030,250,Serious 
+ sanitary hand drying devices and proper waste receptacles ,Toilet / Hand Washing Facilities For Customers,7-38-031,250,Serious ,
+7-42-010 (B),250,Serious ,,,
+7-42-090 ,250,Serious ,,,
+Food Protection,7-38-005 (A),100,Minor   ,,
+7-38-005 (A),100,Minor   ,,,
+Food Protection,7-38-005 (A),100,Minor   ,,
+Food Protection,7-38-005 (A),100,Minor   ,,
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-38-030, 015, 010 (A), 005 (A),100,Minor   
+7-32-010 Through 090,100,Minor   ,,,

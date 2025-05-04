@@ -1,0 +1,76 @@
+employee_id,first_name,last_name,address,city,state,zip,phone,title,salary,supervisor
+103705,Anastasia,Hansen,6023 S Elizabeth St,Chicago,IL,60636,(773) 424-8729,Sanitarian,79300,177316
+104633,Joshua,Rosa,5000 N Wolcott Ave,Chicago,IL,60640,(773) 293-6409,Sanitarian,82000,186742
+106581,Zach,Barber,7522 N Oleander Ave,Chicago,IL,60631,(219) 473-0757,Sanitarian,79900,179582
+111559,Lisa,Tillman,5529 S Dorchester Ave,Chicago,IL,60637,(773) 424-5470,Sanitarian,84700,182205
+112202,Bob,Benson,7011 S Campbell Ave,Chicago,IL,60629,(773) 891-8653,Sanitarian,81900,182205
+115790,Craig,Kerr,300 N State St Apt 4801,Chicago,IL,60654,(219) 473-9718,Sanitarian,72900,179582
+117743,Standard,Murray,8633 S Yates Blvd,Chicago,IL,60617,(773) 891-5230,Sanitarian,83300,192462
+118150,Rosemary,Kennedy,3239 W Hirsch St Apt 1,Chicago,IL,60651,(630) 859-3286,Sanitarian,64700,186742
+123538,Sarah,Lindsey,4704 W Wrightwood Ave,Chicago,IL,60639,(773) 227-0204,Sanitarian,70600,179582
+130467,Jessica,Anthony,7211 S Hermitage Ave,Chicago,IL,60636,(630) 859-2291,Sanitarian,71500,186498
+131505,Mark,Atkins,1000 N Lake Shore Plz,Chicago,IL,60611,(773) 907-7655,Sanitarian,75900,179582
+135792,Vicky,Coleman,1241 W Barry Ave,Chicago,IL,60657,(773) 434-8235,Sanitarian,64100,179582
+138450,Randall,Curtis,11812 S Justine St,Chicago,IL,60643,(773) 235-7702,Sanitarian,82700,192462
+141319,Ruth,Noble,2249 W Marquette Rd,Chicago,IL,60636,(773) 434-9505,Sanitarian,77400,179582
+143487,Arnold,Holder,2341 E 92nd St,Chicago,IL,60617,(773) 221-6608,Sanitarian,63600,186742
+143902,Robert,Morin,7337 S South Shore Dr Apt 320,Chicago,IL,60649,(219) 473-5482,Sanitarian,76000,186742
+153225,David,Hodges,3108 W 63rd St,Chicago,IL,60629,(773) 789-2283,Sanitarian,68400,177316
+153443,Daryl,William,4218 S Calumet Ave,Chicago,IL,60653,(773) 855-9558,Sanitarian,80300,177316
+158905,Eric,Henson,7305 S Morgan St,Chicago,IL,60621,(773) 862-4881,Sanitarian,81300,186498
+159988,Robert,Lane,7642 S Rhodes Ave,Chicago,IL,60619,(773) 253-8766,Sanitarian,83200,192462
+164795,Thomas,Langley,9118 S Oglesby Ave,Chicago,IL,60617,(773) 437-4932,Sanitarian,63500,192462
+165130,Philip,Powers,1916 N Albany Ave,Chicago,IL,60647,(773) 862-4911,Sanitarian,70800,186498
+166407,Tawana,Huffman,506 E 88th Pl,Chicago,IL,60619,(773) 638-2715,Sanitarian,83200,186498
+167785,Cecelia,Glenn,1401 E 55th St Apt 808n,Chicago,IL,60615,(773) 665-6795,Sanitarian,63700,186742
+171336,Richard,Tyler,4726 N Campbell Ave Apt 1,Chicago,IL,60625,(773) 373-7888,Sanitarian,70300,186498
+172276,Christopher,Riddle,6558 S Campbell Ave Apt 2,Chicago,IL,60629,(773) 293-1713,Sanitarian,75600,182205
+173558,Marcus,Parker,11806 S Vincennes Ave,Chicago,IL,60643,(773) 227-6246,Sanitarian,68200,179582
+175090,Timothy,Kennedy,6521 N Oketo Ave,Chicago,IL,60631,(312) 787-9982,Sanitarian,79600,186498
+175707,Shauntae,Guerrero,1029 N Hamlin Ave # 3,Chicago,IL,60651,(773) 424-9777,Sanitarian,70800,186742
+176578,Kenndell,Jensen,7723 S Paxton Ave,Chicago,IL,60649,(773) 891-4417,Sanitarian,79000,179582
+177299,Lavetta,Carlson,8131 S Kingston Ave Apt 3,Chicago,IL,60617,(773) 293-8204,Sanitarian,78100,186498
+177316,Gregory,Cardenas,8957 S Justine St,Chicago,IL,60620,(773) 745-6752,Supervisor,93100,201781
+179554,Leah,Nelson,1435 W 105th Pl,Chicago,IL,60643,(773) 881-4251,Sanitarian,84100,186742
+179582,Kathryn,Hopper,858 W Diversey Pkwy,Chicago,IL,60614,(773) 472-6244,Supervisor,85800,201781
+182138,Carolyn,Odom,8141 S Essex Ave,Chicago,IL,60617,(773) 768-6780,Sanitarian,66000,192462
+182205,Melanie,Ingram,PO Box 546,Park Forest,IL,60466,(773) 472-8722,Supervisor,92400,201781
+186452,Ruffin,Branch,6360 S Minerva Ave,Chicago,IL,60637,(773) 363-1274,Sanitarian,66200,186498
+186498,Donald,Mathews,5757 N Sheridan Rd,Chicago,IL,60660,(773) 907-3598,Supervisor,84600,201781
+186677,Jessica,Doyle,4239 N Lincoln Ave Apt 2,Chicago,IL,60618,(773) 253-9446,Sanitarian,79200,179582
+186742,Darlisha,Jacobs,7347 S Damen Ave,Chicago,IL,60636,(773) 221-9206,Supervisor,85100,201781
+192391,Willie,Downs,8200 S East End Ave,Chicago,IL,60617,(708) 338-7346,Sanitarian,71100,177316
+192462,Vincent,Rosario,1216 W Belmont Ave,Chicago,IL,60657,(773) 638-2938,Supervisor,91100,201781
+196662,Valeria,Mcgowan,4033 N Kenneth Ave,Chicago,IL,60641,(773) 745-7003,Sanitarian,84800,186742
+196668,Anthony,David,7621 S Emerald Ave,Chicago,IL,60620,(219) 473-6022,Supervisor,66500,201781
+201689,Jalen,Stokes,1549 E 93rd St,Chicago,IL,60619,(773) 468-1285,Sanitarian,81900,182205
+201781,Bobby,Adkins,1250 W Dexter Ln,Hoffman Estates,IL,60169,(219) 473-1345,Division Manager,135200,204603
+204540,Tyfenny,Ball,2919 W Warren Blvd,Chicago,IL,60612,(773) 846-9283,Sanitarian,62200,182205
+205309,Angeline,Sargent,4133 S Prairie Ave Apt 3n,Chicago,IL,60653,(708) 338-2784,Sanitarian,75800,182205
+205376,Charles,Mason,8314 S Mackinaw Ave Apt 1,Chicago,IL,60617,(312) 385-7215,Sanitarian,70800,177316
+215116,Lori,Fitzgerald,1117 S Karlov Ave,Chicago,IL,60624,(773) 253-7036,Sanitarian,78800,182205
+218740,Jeffery,George,5746 S Marshfield Ave,Chicago,IL,60636,(773) 434-8977,Sanitarian,72800,182205
+221258,Zachary,Blanchard,860 W Blackhawk St Unit 1806,Chicago,IL,60642,(708) 926-4138,Sanitarian,67200,186742
+222943,Loran,Burgess,3336 W Madison St,Chicago,IL,60624,(773) 826-0976,Sanitarian,70200,177316
+223603,Maryalice,Holder,3228 N Oriole Ave,Chicago,IL,60634,(773) 625-2879,Sanitarian,80100,186498
+225947,Margaret,Rodriquez,4255 N Oak Park Ave Apt 202,Chicago,IL,60634,(773) 434-1869,Sanitarian,69500,186498
+229158,James,Joyce,3933 N Seeley Ave # 2,Chicago,IL,60618,(773) 665-1074,Sanitarian,72400,186498
+229934,Aaron,Ray,7443 S Chappel Ave Apt S2,Chicago,IL,60649,(773) 855-7454,Sanitarian,80600,186498
+232142,Jacquelyn,Coleman,5605 N Glenwood Ave Apt 3,Chicago,IL,60660,(312) 385-9362,Sanitarian,67700,186742
+234720,Rosemary,Pittman,5728 W Grace St,Chicago,IL,60634,(312) 385-2976,Sanitarian,73500,179582
+236028,Darlicia,Kent,2640 W 13th St Apt 301,Chicago,IL,60608,(312) 640-1047,Sanitarian,78800,179582
+240274,Nicole,England,1831 S Avers Ave,Chicago,IL,60623,(773) 801-1849,Sanitarian,66100,182205
+243444,Grayln,Rogers,6918 S Rockwell St,Chicago,IL,60629,(773) 424-0844,Sanitarian,72000,177316
+245239,Melisa,Leblanc,7735 S East End Ave Apt 1,Chicago,IL,60649,(773) 855-9501,Sanitarian,81500,192462
+249918,Bernita,Underwood,1027 W Vermont Ave,Chicago,IL,60827,(708) 926-9294,Sanitarian,71800,186742
+251059,Jeffrey,Head,417 S Jefferson St Apt 404,Chicago,IL,60607,(708) 926-9285,Sanitarian,75500,179582
+251643,Christina,Fischer,2228 S Kildare Ave Apt 1,Chicago,IL,60623,(773) 855-2454,Sanitarian,63100,186742
+257445,Marvin,Tyson,3416 W Beach Ave,Chicago,IL,60651,(773) 235-7016,Sanitarian,78600,192462
+265287,Donald,Davis,2831 E 76th Pl,Chicago,IL,60649,(773) 363-2655,Sanitarian,81500,179582
+266618,Jeremaih,Mullen,6616 N Damen Ave,Chicago,IL,60645,(773) 363-7141,Sanitarian,74300,186498
+283193,Graegar,Bowers,3230 N Sheffield Ave,Chicago,IL,60657,(773) 472-0424,Sanitarian,70900,179582
+286717,Wendy,Sanders,70 W Burton Pl Apt 1902,Chicago,IL,60610,(312) 787-7384,Sanitarian,62400,177316
+288601,Monique,Spencer,137 N Waller Ave Apt 1w,Chicago,IL,60644,(773) 887-4691,Sanitarian,81500,182205
+296108,Walter,Melendez,1241 W 72nd Pl,Chicago,IL,60636,(773) 846-2358,Sanitarian,67800,186742
+298676,Larry,Pollard,11505 S Church St,Chicago,IL,60643,(773) 468-2768,Sanitarian,71400,186498
+299239,Stephanie,Goodwin,756 E 131st St,Chicago,IL,60827,(773) 293-9448,Sanitarian,81000,177316
