@@ -1,3 +1,4 @@
+
 import streamlit as st
 
 # 0) Page config — must be first Streamlit command
@@ -280,3 +281,4 @@ elif action == "Show Visualizations":
     }
     st.subheader("5. Risk Level Distribution")
     st.vega_lite_chart(df5, spec5, use_container_width=True)
+
